@@ -1,6 +1,6 @@
 <h1>Olá, eu sou o Rafael Marques</h1>
 <p>Estudante de Engenharia de Software no Centro Universitário Municipal de Franca</p>
-<p>1º semestre - 2025</p>
+<p>2º semestre - 2025</p>
 <h2>🚀 Conhecimento em:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
