@@ -44,13 +44,11 @@ while (system.isRunning()) {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faelmarques&theme=github-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faelmarques&layout=compact&theme=github-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faelmarques&show_icons=true&theme=github-dark&hide_border=true&count_private=true)
 
 </div>
 
@@ -81,19 +79,13 @@ while (system.isRunning()) {
 
 ---
 
-## 💡 Philosophy
+<div align="center">
+
+### 💡 Philosophy
 
 > *"The system cannot go down."*
 
 I build backend systems that run 24/7 with zero tolerance for downtime. Every feature, every deployment, every backup is automated. If it can fail, I've already handled it.
-
----
-
-<div align="center">
-
-### ⚡ Recent Activity
-
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=faelmarques&show_icons=true&theme=github-dark&hide_border=true)
 
 </div>
 
@@ -101,6 +93,6 @@ I build backend systems that run 24/7 with zero tolerance for downtime. Every fe
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=faelmarques&color=58A6FF&style=flat-square&label=Profile+Views)
+**Thanks for visiting!** ⭐
 
 </div>
