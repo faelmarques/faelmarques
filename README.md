@@ -19,7 +19,7 @@ while (system.isRunning()) {
 
 ## 🧠 About Me
 
-- 🎓 **Computer Science** student at Uni-FACEF Franca
+- 🎓 **Computer Science** student
 - 🏗️ **SaaS Builder** — 3 production systems running 24/7
 - ⚙️ **Backend obsessed** — if it scales, I'm interested
 - 📍 **Franca, BR**
@@ -54,14 +54,14 @@ while (system.isRunning()) {
 
 </div>
 
----university]
+---
 
 ## 🚀 Projects
 
 ### 🚗 [Posto Travessia — Lavamatic](https://github.com/faelmarques/travessia-lavamatic)
 > Car wash ticket management system with IoT integration.
 
-`Node.js` `Express` `SQLite` `MQTT` `ESP32` `Telegram Bot`
+`Node.js` `Express` `SQLite` `MQTT` `ESP32`
 
 - 🎫 Ticket generation + thermal printing
 - 🤖 ESP32 totem validation via MQTT
