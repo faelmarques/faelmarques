@@ -48,9 +48,9 @@ while (system.isRunning()) {
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faelmarques&theme=github-dark&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faelmarques&theme=github-dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faelmarques&layout=compact&theme=github-dark&bg_color=0D1117&title_color=58A6FF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faelmarques&layout=compact&theme=github-dark)
 
 </div>
 
@@ -91,9 +91,9 @@ I build backend systems that run 24/7 with zero tolerance for downtime. Every fe
 
 <div align="center">
 
-### ⚡ Random Dev Quote
+### ⚡ Recent Activity
 
-![Readme Quotes](https://github-readme-stats.vercel.app/api/pin/?username=faelmarques&repo=travessia-lavamatic&theme=github-dark&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=faelmarques&show_icons=true&theme=github-dark&hide_border=true)
 
 </div>
 
