@@ -44,16 +44,6 @@ while (system.isRunning()) {
 
 ---
 
-## 📊 Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faelmarques&show_icons=true&theme=github-dark&hide_border=true&count_private=true)
-
-</div>
-
----
-
 ## 🚀 Projects
 
 ### 🚗 [Posto Travessia — Lavamatic](https://github.com/faelmarques/travessia-lavamatic)
