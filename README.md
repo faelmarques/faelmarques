@@ -19,7 +19,7 @@ while (system.isRunning()) {
 
 ## 🧠 About Me
 
-- 🎓 **Computer Science** student @ [university]
+- 🎓 **Computer Science** student at Uni-FACEF Franca
 - 🏗️ **SaaS Builder** — 3 production systems running 24/7
 - ⚙️ **Backend obsessed** — if it scales, I'm interested
 - 📍 **Franca, BR**
@@ -54,7 +54,7 @@ while (system.isRunning()) {
 
 </div>
 
----
+---university]
 
 ## 🚀 Projects
 
